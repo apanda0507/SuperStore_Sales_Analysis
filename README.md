@@ -2,7 +2,7 @@
 
 ## 🔗 Power BI Dashboard Link
 
-👉 [View the Power BI Dashboard](https://app.powerbi.com/links/eAYJl6g25e?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+👉 [View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGU5ODllNTktZmFjYy00NDU0LWEyZjMtZmQ5ZDU5MmZkNDk0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
